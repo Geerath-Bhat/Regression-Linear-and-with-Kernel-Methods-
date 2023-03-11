@@ -22,7 +22,7 @@ Normal Eqaution Linear Regression Result:
 ![Normal Equation Linear Equation](https://user-images.githubusercontent.com/101024664/224491212-3ab86643-9ea4-4cbb-8bf4-f590e989aa37.png)
 ------
 ------
-Note that you can use any kernel of your choice ( Examples - exponantial, tanh, norm etc.)
+Note that you can use any kernel of your choice ( Examples - exponential, tanh, norm etc.)
 ------
 Kernel Methods Model 1 Result:
 ------

@@ -3,7 +3,7 @@ This includes example use cases of the implementing linear regression and regres
 
 A README file: This would provide an overview of the project, including its goals, the techniques used, and any relevant background information.
 
-Jupyter Notebook(training and testing included) : These would contain the code for implementing linear regression and regression using kernel methods. Each notebook would include detailed explanations of the methods used and the reasoning behind them.
+Jupyter Notebooks(training and testing included) : These would contain the code for implementing linear regression and regression using kernel methods. Each notebook would include detailed explanations of the methods used and the reasoning behind them.
 
 Data files: These would be the data sets used in the project.
 

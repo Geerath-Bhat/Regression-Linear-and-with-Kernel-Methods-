@@ -22,6 +22,8 @@ Normal Eqaution Linear Regression Result:
 ![Normal Equation Linear Equation](https://user-images.githubusercontent.com/101024664/224491212-3ab86643-9ea4-4cbb-8bf4-f590e989aa37.png)
 ------
 ------
+Note that you can use kernelof your choice ( Examples - exponantial, tanh, norm etc.)
+------
 Kernel Methods Model 1 Result:
 ------
 ![Kernel Methods Model 1 Result](https://user-images.githubusercontent.com/101024664/224491643-8591ffc1-7170-41f4-9440-c418a3790533.png)

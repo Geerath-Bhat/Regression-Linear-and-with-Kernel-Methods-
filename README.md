@@ -14,6 +14,9 @@ Tests(done in one notebook only): This would include unit tests to ensure that t
 
 Linear Regression Results: 
 SGD Linear Regression Result
+,,,,,,
+,,,,,
+,,,,,
 ![SGD Linear Regression result](https://user-images.githubusercontent.com/101024664/224491205-942232b3-0064-4d05-a4e3-65420b771175.png)
 
 ,,,,,

@@ -13,8 +13,5 @@ A requirements.txt file(not included): This would specify the Python packages re
 Tests(done in one notebook only): This would include unit tests to ensure that the code is functioning correctly.
 SGD Linear Regression Result
 ![SGD Linear Regression result](https://user-images.githubusercontent.com/101024664/224491205-942232b3-0064-4d05-a4e3-65420b771175.png)
-
-
-
 Normal Eqaution Linear Regression Result
 ![Normal Equation Linear Equation](https://user-images.githubusercontent.com/101024664/224491212-3ab86643-9ea4-4cbb-8bf4-f590e989aa37.png)
